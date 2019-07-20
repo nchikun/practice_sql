@@ -1,0 +1,8 @@
+stamp,session,user_id,action,category,products,amount
+2016-11-03 18:10:00,0CVKaz,U001,purchase,drama,"D001,D002",2000.0
+2016-11-03 18:00:00,0CVKaz,U001,favorite,drama,D001,
+2016-11-03 18:00:00,0CVKaz,U001,view,,,
+2016-11-03 18:01:00,0CVKaz,U001,add_cart,drama,D002,
+2016-11-03 18:02:00,0CVKaz,U001,add_cart,drama,,
+2016-11-04 13:00:00,1QceiB,U002,purchase,drama,D002,1000.0
+,1QceiB,U002,purchase,action,"A005,A006",1000.0

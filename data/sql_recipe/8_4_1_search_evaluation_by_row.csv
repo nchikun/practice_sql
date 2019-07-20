@@ -1,0 +1,11 @@
+path,index,value
+/search1,recall,40.0
+/search1,precision,60.0
+/search2,recall,60.0
+/search2,precision,40.0
+/search3,recall,50.0
+/search3,precision,50.0
+/search4,recall,30.0
+/search4,precision,60.0
+/search5,recall,70.0
+/search5,precision,0.0

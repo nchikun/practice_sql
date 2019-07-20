@@ -1,0 +1,15 @@
+keyword,item
+sql,book003
+sql,book005
+sql,book008
+sql,book010
+sql,book025
+sql,book100
+postgres,book008
+postgres,book010
+postgres,book030
+postgres,book055
+postgres,book066
+postgres,book100
+hive,book200
+redshift,book300

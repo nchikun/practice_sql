@@ -1,0 +1,21 @@
+session,user_id,action,category,products,amount,stamp
+989004ea,U001,purchase,drama,"D001,D002",2000.0,2016-10-01 18:10:00
+989004ea,U001,view,,,,2016-10-01 18:00:00
+989004ea,U001,favorite,drama,D001,,2016-10-01 18:00:00
+989004ea,U001,review,drama,D001,,2016-10-01 18:00:00
+989004ea,U001,add_cart,drama,D001,,2016-10-01 18:00:00
+989004ea,U001,add_cart,drama,D001,,2016-10-01 18:00:00
+989004ea,U001,add_cart,drama,D001,,2016-10-01 18:00:00
+989004ea,U001,add_cart,drama,D001,,2016-10-01 18:00:00
+989004ea,U001,add_cart,drama,D001,,2016-10-01 18:00:00
+989004ea,U001,add_cart,drama,D002,,2016-10-01 18:01:00
+989004ea,U001,add_cart,drama,"D001,D002",,2016-10-01 18:02:00
+989004ea,U001,purchase,drama,"D001,D002",2000.0,2016-11-01 18:10:00
+47db0370,U002,add_cart,drama,D001,,2016-10-01 19:00:00
+47db0370,U002,purchase,drama,D001,1000.0,2016-11-01 20:00:00
+47db0370,U002,add_cart,drama,D002,,2016-10-01 20:30:00
+87b5725f,U001,add_cart,action,A004,,2016-10-01 12:00:00
+87b5725f,U001,add_cart,action,A005,,2016-10-01 12:00:00
+87b5725f,U001,add_cart,action,A006,,2016-10-01 12:00:00
+9afaf87c,U002,purchase,drama,D002,1000.0,2016-12-01 13:00:00
+9afaf87c,U002,purchase,action,"A005,A006",1000.0,2016-12-01 15:00:00

@@ -1,0 +1,6 @@
+path,recall,precision
+/search1,40.0,60.0
+/search2,60.0,40.0
+/search3,50.0,50.0
+/search4,30.0,60.0
+/search5,70.0,0.0
